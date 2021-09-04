@@ -1,0 +1,19 @@
+#noice {
+    color: green;
+    background: skyblue;
+    text-align: center;
+}
+.classy {
+    color: rgb(122, 32, 32);
+    font-size: 120%;
+}
+body{
+    background-color: rgb(124, 134, 103);
+    font-size: 20px;
+}
+h3{
+    font-size: 25px;
+}
+.addborder{
+    border: 5px solid rgb(100, 75, 21);
+}
